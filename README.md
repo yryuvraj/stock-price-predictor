@@ -1,2 +1,3 @@
-# hackathon-submission-template
-Please use this template for submitting solutions for the Microsoft Future Technology Hackathon 2022
+# stock-price-predictor
+Read the Read Me file (PDF) to know how the code works -> Its a brief synopsis of the program I've made :)
+
